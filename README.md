@@ -36,7 +36,8 @@ Things to consider before install:
 To use "Calltip On Space," follow these simple steps:
 
 - Install the PythonScript plugin in the Notepad++ **"Plugins Admin"** menu
-- Copy the code below and paste code into a new ***.py** file. Make the adjustments mentioned in the "Considerations & Preparation" part of the README.
+- Copy the code inside the calltip.on.space.py file and paste code into a new file and save it as "calltip.on.space.py".
+- Make the adjustments mentioned in the "Considerations & Preparation" part of the README.
 - Save the script in the **\"..\plugins\Config\PythonScript\scripts"** directory for Notepad++ PythonScript scripts.
 - Search for the script you just created in  the **"Plugins -Python Script -Scripts"** submenu, click the script to run it.
 - Alternately you can create a menu item or button for it through the PythonScript **"Configuration menu"**. Remember that for buttons you have to restart Notepad++ for them to show up.
